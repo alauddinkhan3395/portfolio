@@ -70,7 +70,6 @@ const aboutData = [
   {
     title: "Education",
     info: [
-      { title: "UI/UX Designer", stage: "2025" },
       { title: "Bachelor of Management Studies - University of Mumbai", stage: "2022-25" },
       { title: "Higher Secondary Certificate - N.E. Jr Collge College", stage: "2020-2022" },
       { title: "Secondary School Certificate - R.G.H.H.S", stage: "2020" },
